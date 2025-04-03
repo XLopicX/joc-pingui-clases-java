@@ -4,10 +4,15 @@ public class Tablero {
 
   private ArrayList <Casilla> casillas ;
   private ArrayList <Jugador> jugadores;
+  private int turnos;
+  private Jugador jugadorActual;
 
-  int turnos;
-
-  Jugador jugadorActual;
+  public Tablero(ArrayList<Casilla> casillas, ArrayList<Jugador> jugadores, int turnos, Jugador jugadorActual) {
+    this.casillas = casillas;
+    this.jugadores = jugadores;
+    this.turnos = turnos;
+    this.jugadorActual = jugadorActual;
+  }
 
   public ArrayList<Casilla> getCasillas() {
     return casillas;
@@ -40,6 +45,7 @@ public class Tablero {
   public void setJugadorActual(Jugador jugadorActual) {
     this.jugadorActual = jugadorActual;
   }
+
   void actualizarTablero(){
 
   }

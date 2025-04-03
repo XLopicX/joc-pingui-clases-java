@@ -32,7 +32,7 @@ public class gestorPartidas {
 
     }
 
-    void Tablero cargarPartida() {
-
+    Tablero cargarPartida() {
+        return null;
     }
 }
