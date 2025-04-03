@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-    void main(){
+    void main() {
 
         }
-    void jugar(){
+    void jugar() {
 
         }
     }
