@@ -1,6 +1,10 @@
 public class pantallaPartida {
     private Tablero tablero;
 
+    public pantallaPartida(Tablero tablero) {
+        this.tablero = tablero;
+    }
+
     void botonTirarDado(){
 
     }
@@ -19,6 +23,6 @@ public class pantallaPartida {
 
     }
     void guardarPartida(Tablero t){
-
+       this.tablero = t;
     }
 }
