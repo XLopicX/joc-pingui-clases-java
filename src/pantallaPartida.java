@@ -23,6 +23,6 @@ public class pantallaPartida {
 
     }
     void guardarPartida(Tablero t){
-       this.tablero = t;
+
     }
 }
