@@ -1,4 +1,4 @@
-public class Pingüino extends Jugador {
+public class Pingüino extends Jugador { // Modelo
     private Inventario inv;
 
     public Pingüino(int posicion, String nombre, String color, Inventario inv) {

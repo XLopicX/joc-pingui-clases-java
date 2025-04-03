@@ -1,4 +1,4 @@
-public class pantallaPartida {
+public class pantallaPartida { // Vista (Mostra info, no es ni controlador ni modelo)
     private Tablero tablero;
 
     public pantallaPartida(Tablero tablero) {

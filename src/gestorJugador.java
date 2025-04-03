@@ -1,4 +1,4 @@
-public class gestorJugador {
+public class gestorJugador { // Controlador
 
     void jugadorUsaItem(String nombreItem) {
 

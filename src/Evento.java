@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Evento extends Casilla{
+public class Evento extends Casilla { // Modelo
     private String tipoEvento;
 
     public Evento(ArrayList<Jugador> jugadoresActuales, int posicion, String tipoEvento) {

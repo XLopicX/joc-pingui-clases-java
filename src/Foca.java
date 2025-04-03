@@ -1,4 +1,4 @@
-public class Foca extends Jugador {
+public class Foca extends Jugador { // Modelo
     private boolean soborno;
 
     public Foca(int posicion, String nombre, String color, boolean soborno) {

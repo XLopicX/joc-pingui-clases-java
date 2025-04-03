@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public abstract class Casilla {
+public abstract class Casilla { // Modelo
     private int posicion;
     private ArrayList<Jugador> jugadoresActuales;
 

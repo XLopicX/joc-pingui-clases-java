@@ -1,4 +1,4 @@
-public abstract class Jugador {
+public abstract class Jugador { // Modelo
     private int posicion;
     private String nombre;
     private String color;

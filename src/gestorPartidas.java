@@ -1,5 +1,4 @@
-public class gestorPartidas {
-
+public class gestorPartidas { // Controlador
     private String urlBBDD;
     private String username;
     private String password;

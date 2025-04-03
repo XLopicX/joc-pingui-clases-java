@@ -1,4 +1,4 @@
-public class gestorTablero {
+public class gestorTablero { // Controlador
     void actualizarMovimientoJugador(Jugador j){
 
     }

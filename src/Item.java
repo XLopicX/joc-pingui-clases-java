@@ -1,4 +1,4 @@
-public class Item {
+public class Item { // Modelo
     private String nombre;
     private int cantidad;
 

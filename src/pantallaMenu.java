@@ -1,5 +1,4 @@
-public class pantallaMenu {
-
+public class pantallaMenu { // Vista (Mostra info, no es ni controlador ni modelo)
     void menu() {
 
     }

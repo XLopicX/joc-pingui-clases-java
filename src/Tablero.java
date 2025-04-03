@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Tablero {
+public class Tablero { // Modelo
 
   private ArrayList <Casilla> casillas ;
   private ArrayList <Jugador> jugadores;
